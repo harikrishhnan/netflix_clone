@@ -1,2 +1,2 @@
-# netflix_clone
+# Netflix_clone
 A website for Netflix landing page 
