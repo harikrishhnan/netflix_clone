@@ -1,5 +1,5 @@
 # Netflix_clone
-A website for Netflix landing page 
+A web page clone of Netflix landing page 
 
 **Screenshots**
 
